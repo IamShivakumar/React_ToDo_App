@@ -1,0 +1,17 @@
+.input{
+    height: 40px;
+    width: 700px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 20px;
+    border-color: white;
+}
+
+.custom-tablebg{
+        background-color: #2a323a; /* AliceBlue color */
+        color: #e2d9d9; /* Darker text color for readability */
+}
+
+.completed{
+    text-decoration:line-through
+}
